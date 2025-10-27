@@ -1,30 +1,31 @@
-# Lab 08 – Open Source Programming  
+# Lab 08 – Open Source Programming
 
-##  About Project  
-**EN:** This repository contains assignments **01 → 04** of **Lab 08** in the course *Open Source Programming*.  
-**VN:** Repository này bao gồm các bài tập **01 → 04** của **Lab 08** trong môn học *Lập trình mã nguồn mở*.  
+## About Project
 
-- **Student**: Đặng Thế Nghĩa  
-- **Student ID**: 2001223025  
+**EN:** This repository contains assignments **01 → 04** of **Lab 08** in the course _Open Source Programming_.  
+**VN:** Repository này bao gồm các bài tập **01 → 04** của **Lab 08** trong môn học _Lập trình mã nguồn mở_.
 
----
-
-##  Technologies Used  
-- **PHP / Laravel**  
-- **MySQL**  
-- **HTML / CSS**  
-
+-   **Student**: Nguyễn Phú Tài
+-   **Student ID**: 2001226447
 
 ---
 
-##  Demo Screenshots  
+## Technologies Used
+
+-   **PHP / Laravel**
+-   **MySQL**
+-   **HTML / CSS**
+
+---
+
+## Demo Screenshots
 
 ### 1️⃣ Danh sách sản phẩm
-![Demo 1](images/1.png)  
+
+![Demo 1](images/1.png)
 
 ### 2️⃣ Danh sách sinh viên
-![Demo 2](images/2.png)  
 
-
+![Demo 2](images/2.png)
 
 ---
